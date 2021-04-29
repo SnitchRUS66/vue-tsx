@@ -1,4 +1,4 @@
-# vue-tsx2
+# vue-tsx
 
 ## Project setup
 ```
